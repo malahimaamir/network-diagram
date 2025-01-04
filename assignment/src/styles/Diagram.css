@@ -1,0 +1,29 @@
+
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/abstract-light-color-background-generative-ai-design-instagram-facebook-wall-painting-327379913.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.app {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .input-form {
+    margin-bottom: 20px;
+  }
+  
+  .input-form input {
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  .diagram {
+    width: 100%;
+    height: 500px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
